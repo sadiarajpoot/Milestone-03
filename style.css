@@ -86,9 +86,8 @@ input, textarea {
     font-weight: 400;
     font-style: normal;
     color: #333;
-    padding: 8px; /* Increase padding for better aesthetics */
-    width: calc(100% - 22px); /* Ensures full width minus padding */
-}
+    padding: 8px;
+    width: calc(100% - 22px); 
 input:hover{
 	border-color: #333;
 	outline: none;
